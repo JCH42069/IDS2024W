@@ -1,4 +1,4 @@
-# IDS2024W
+# IDS2024S
 
 **IDS2024, Introduction to Data Science, Spring 2024**  
 **Name:** Joshua Howland  
