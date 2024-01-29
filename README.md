@@ -9,4 +9,4 @@
 **Level:** Dinosaur  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
-**Photo:** ![A Photo of Josh](https://github.com/JCH42069/IDS2024W/assets/157654679/0cc210bf-7e23-4300-a60b-6378213d2025)  
+**Photo:**  ![A Photo of Josh](https://github.com/JCH42069/IDS2024W/assets/157654679/0cc210bf-7e23-4300-a60b-6378213d2025)  
