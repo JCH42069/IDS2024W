@@ -20,3 +20,9 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 > I have not failed. I have just found 1000 ways that won't work.  
 > Thomas Edison  
+
+For questions and troubleshooting, contact:  
+Josh Howland  
+jch0109@mavs.uta.edu  
+Student of Data Science  
+University of Texas at Arlington  
