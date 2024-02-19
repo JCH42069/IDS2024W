@@ -8,7 +8,7 @@
 **University:** The University of Texas at Arlington  
 **Level:** Dinosaur  
 **Position Title:** Student  
-**Course Webpage:** [IDS2024W](www.cdslab.org/IDS2024W)  
+**Course Webpage:** [IDS2024W](https://github.com/JCH42069/IDS2024W)  
 **Photo:**  
 ![A Photo of Josh](JoshPhoto.jpeg)  
 
