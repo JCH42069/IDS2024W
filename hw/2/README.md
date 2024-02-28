@@ -1,22 +1,29 @@
-1. I didn't understand it
-2. ENIAC - Electronic Numerical Integrator And Computer  
-3. To store values and run loops  
-4. Cache Memory  
-5. Disk  
-6. A bit  
-7. a. Assembly Language  
-7. b. yes  
-8. a. Fortran  
-8. b. Approximately 6 decades  
-9. a. Cobol  
-9. b. Third-Generation  
-10. 1970s, 1980s, 1980s, 1990s  
-11. B  
-12. C, Simula  
-13. Fortran  
-14. Registers  
-15. a byte
-16. not much faster
-17. much faster  
-18. They act as switches, letting currents through to represent the binary digit 1, or cutting it off to represent 0.
-19. 
+1. 
+2. 2 ENIAC - Electronic Numerical Integrator And Computer  
+3. 3 To store values and run loops  
+4. 4 Cache Memory  
+5. 5 Disk  
+6. 6 A bit  
+7. 7a Assembly Language  
+7. 7b yes  
+8. 8a Fortran  
+8. 8b Approximately 6 decades  
+9. 9a Cobol  
+9. 9b Third-Generation  
+10. 10 1970s, 1980s, 1980s, 1990s  
+11. 11 B  
+12. 12 C, Simula  
+13. 13 Fortran  
+14. 14 Registers  
+15. 15 a byte  
+16. 16 much faster  
+17. 17 Ram is significantly faster  
+18. 18 not musch faster  
+19. 19 They act as switches, letting currents through to represent the binary digit 1, or cutting it off to represent 0.  
+20. 20 Because we would have to make the chips bigger and there wouldn't be enough space.
+21. 21 Fetch, decode, execute
+22. 22 It determines how many cycles of operations the processor can perform per second. A higher clock speed means the CPU can execute more cycles per second, leading to faster processing of tasks.  
+23. 23 CPU because CPU would be able to support higher-end GPU
+24. 24 Moore's Law and Dennard Scaling are like best buddies in the tech world. Moore's Law makes gadgets more powerful by adding more switches, and Dennard Scaling keeps them energy-efficient by making them smaller. Together, they've given us devices that are faster and better, without draining too much energy.
+25. 25 1, 64
+26. 25 2, 4160
