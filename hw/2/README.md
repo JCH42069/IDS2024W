@@ -20,10 +20,16 @@
 17. 17 Ram is significantly faster  
 18. 18 not musch faster  
 19. 19 They act as switches, letting currents through to represent the binary digit 1, or cutting it off to represent 0.  
-20. 20 Because we would have to make the chips bigger and there wouldn't be enough space.
-21. 21 Fetch, decode, execute
+20. 20 Because we would have to make the chips bigger and there wouldn't be enough space.  
+21. 21 Fetch, decode, execute  
 22. 22 It determines how many cycles of operations the processor can perform per second. A higher clock speed means the CPU can execute more cycles per second, leading to faster processing of tasks.  
-23. 23 CPU because CPU would be able to support higher-end GPU
-24. 24 Moore's Law and Dennard Scaling are like best buddies in the tech world. Moore's Law makes gadgets more powerful by adding more switches, and Dennard Scaling keeps them energy-efficient by making them smaller. Together, they've given us devices that are faster and better, without draining too much energy.
-25. 25 1, 64
-26. 25 2, 4160
+23. 23 CPU because CPU would be able to support higher-end GPU  
+24. 24 Moore's Law and Dennard Scaling are like best buddies in the tech world. Moore's Law makes gadgets more powerful by adding more switches, and Dennard Scaling keeps them energy-efficient by making them smaller. Together, they've given us devices that are faster and better, without draining too much energy.  
+25. 25 1, 64  
+26. 25 2, 4160  
+27. 25 3, About Half a pound  
+28. 26 1, 9,223,372,036,854,776,000  
+29. 26 2, 18  
+30. 26 3,
+31. 26 4, 2 and half years
+32. 27 memory, looping, branching  
