@@ -1,4 +1,4 @@
-1. 
+1. [progLangChartPuzzle for ItDS.pdf](https://github.com/JCH42069/IDS2024W/files/14440319/progLangChartPuzzle.for.ItDS.pdf)
 2. 2 ENIAC - Electronic Numerical Integrator And Computer  
 3. 3 To store values and run loops  
 4. 4 Cache Memory  
