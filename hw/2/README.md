@@ -30,6 +30,6 @@
 27. 25 3, About Half a pound  
 28. 26 1, 9,223,372,036,854,776,000  
 29. 26 2, 18  
-30. 26 3,
+30. 26 3, Over 100,000 pounds of rice
 31. 26 4, 2 and half years
 32. 27 memory, looping, branching  
