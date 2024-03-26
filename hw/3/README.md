@@ -3,4 +3,4 @@
 3. Deductive reasoning and plausible reasoning
 4. It's raining therefore it's cloudy.
 5. If A and B then C, If the man hears an alarm,
-6.
+6. 
