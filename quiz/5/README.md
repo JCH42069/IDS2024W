@@ -17,5 +17,4 @@ This is where my final answers for the quiz will be.
 15. B
 16. Color as a tool to highlight
 17. The X axis isn't labeled properly
-18. 
-19. 
+19. At where the graph is going I think that the Earth is going to get hotter. I think it will go up up to at least the 3 degrees celsius area.
